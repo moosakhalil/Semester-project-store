@@ -1,0 +1,15 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Football icon -->
+    <circle cx="25" cy="25" r="20" fill="#000000" />
+    <path d="M25 5 C 40 10, 40 40, 25 45 C 10 40, 10 10, 25 5" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    <path d="M5 25 L 45 25" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    <path d="M25 5 L 25 45" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    <path d="M13 13 L 37 37" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    <path d="M13 37 L 37 13" fill="none" stroke="#ffffff" stroke-width="1.5" />
+    
+    <!-- Text "Fútbol Emotion" -->
+    <text x="55" y="25" font-family="Arial, sans-serif" font-weight="700" font-size="18" fill="#000000">Fútbol</text>
+    <text x="55" y="40" font-family="Arial, sans-serif" font-weight="400" font-size="14" fill="#000000">Emotion</text>
+  </g>
+</svg> 
